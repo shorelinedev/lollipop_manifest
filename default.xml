@@ -499,6 +499,9 @@
   <project name="shorelinedev/aosp_L_clean_build" path="build" remote="github" revision="lollipop" />
   <project name="shorelinedev/packages_apps_KernelTweaker" path="packages/apps/KernelTweaker" remote="github" revision="lollipop" />
   <project name="shorelinedev/aosp_system_core" path="system/core" remote="github" revision="lollipop" />
+  <project name="shorelinedev/aosp_build_scripts" path="scripts" remote="github" revision="lollipop" />
+  <project name="shorelinedev/android_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="lollipop" />
+
 #Prime Device and App Blobs
   <project name="shorelinedev/aosp_vendor_hammerhead" path="vendor" remote="github" revision="lollipop" />
   <project name="shorelinedev/aosp_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lollipop" />
