@@ -506,7 +506,5 @@
   <project name="shorelinedev/aosp_vendor_hammerhead" path="vendor" remote="github" revision="lollipop" />
   <project name="shorelinedev/aosp_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lollipop" />
   <project name="shorelinedev/aosp_kernel_hammerhead" path="kernel/msm" remote="github" revision="lollipop" />
-  <project name="shorelinedev/hammerhead-5.0" path="kernel/hammerhead" remote="github" revision="code_blue-l" />
-  <project name="shorelinedev/android_packages_apps_PACPerformance" path="packages/apps/PACPerformance" remote="github" revision="pac-4.4" />
-
+  
 </manifest>
