@@ -481,6 +481,7 @@
   <project name="shorelinedev/aosp_system_core" path="system/core" remote="github" revision="lollipop" />
   <project path="external/libvterm" name="platform/external/libvterm" revision="master" />
   <project name="shorelinedev/android_bootable_recovery" path="bootable/recovery" remote="github" revision="android-5.0" />
+  <project name="shorelinedev/android_external_busybox" path="external/busybox" remote="github" revision="android-5.0" />
 
 #Prime Device and App Blobs
   <project name="shorelinedev/aosp_vendor_hammerhead" path="vendor" remote="github" revision="lollipop" />
