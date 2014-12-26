@@ -482,7 +482,9 @@
   <project path="external/libvterm" name="platform/external/libvterm" revision="master" />
   <project name="shorelinedev/android_bootable_recovery" path="bootable/recovery" remote="github" revision="android-5.0" />
   <project name="shorelinedev/android_external_busybox" path="external/busybox" remote="github" revision="android-5.0" />
-
+  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
+  <project name="shorelinedev/android_packages_apps_Apollo" path="packages/apps/Apollo" remote="github" revision="cm-12.0" />
+  
 #Prime Device and App Blobs
   <project name="shorelinedev/aosp_vendor_hammerhead" path="vendor" remote="github" revision="lollipop" />
   <project name="shorelinedev/aosp_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lollipop" />
