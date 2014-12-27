@@ -475,20 +475,19 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
 #Prime Build Blobs
-  <project name="shorelinedev/aosp_L_clean_build" path="build" remote="github" revision="lollipop"/>
-  <project name="shorelinedev/aosp_build_scripts" path="scripts" remote="github" revision="lollipop" />
-  <project name="shorelinedev/packages_apps_KernelTweaker" path="packages/apps/KernelTweaker" remote="github" revision="lollipop" />
-  <project name="shorelinedev/aosp_system_core" path="system/core" remote="github" revision="lollipop" />
+  <project name="shorelinedev/aosp_L_clean_build" path="build" remote="github" revision="refs/tags/preview"/>
+  <project name="shorelinedev/aosp_build_scripts" path="scripts" remote="github" revision="refs/tags/preview" />
+  <project name="shorelinedev/packages_apps_KernelTweaker" path="packages/apps/KernelTweaker" remote="github" revision="refs/tags/preview" />
+  <project name="shorelinedev/aosp_system_core" path="system/core" remote="github" revision="refs/tags/preview" />
   <project path="external/libvterm" name="platform/external/libvterm" revision="master" />
-  <project name="shorelinedev/android_bootable_recovery" path="bootable/recovery" remote="github" revision="android-5.0" />
-  <project name="shorelinedev/android_external_busybox" path="external/busybox" remote="github" revision="android-5.0" />
+  <project name="shorelinedev/android_bootable_recovery" path="bootable/recovery" remote="github" revision="refs/tags/preview" />
+  <project name="shorelinedev/android_external_busybox" path="external/busybox" remote="github" revision="refs/tags/preview" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
-  <project name="shorelinedev/android_packages_apps_Apollo" path="packages/apps/Apollo" remote="github" revision="cm-12.0" />
+  <project name="shorelinedev/android_packages_apps_Apollo" path="packages/apps/Apollo" remote="github" revision="refs/tags/preview" />
   
 #Prime Device and App Blobs
-  <project name="shorelinedev/aosp_vendor_hammerhead" path="vendor" remote="github" revision="lollipop" />
-  <project name="shorelinedev/aosp_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lollipop" />
-  <project name="shorelinedev/aosp_kernel_hammerhead" path="kernel/msm" remote="github" revision="lollipop" />
-  <project name="shorelinedev/hammerhead-5.0" path="kernel/hammerhead-5.0" remote="github" revision="code_blue-l" />
+  <project name="shorelinedev/aosp_vendor_hammerhead" path="vendor" remote="github" revision="refs/tags/preview" />
+  <project name="shorelinedev/aosp_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="refs/tags/preview" />
+  <project name="shorelinedev/hammerhead-5.0" path="kernel/hammerhead-5.0" remote="github" revision="refs/tags/preview" />
   
 </manifest>
