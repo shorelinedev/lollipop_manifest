@@ -486,7 +486,7 @@
   <project name="shorelinedev/android_packages_apps_Apollo" path="packages/apps/Apollo" remote="github" revision="refs/tags/preview" />
   
 #Prime Device and App Blobs
-  <project name="shorelinedev/aosp_vendor_hammerhead" path="vendor" remote="github" revision="refs/tags/preview" />
+  <project name="shorelinedev/aosp_vendor" path="vendor" remote="github" revision="refs/tags/preview" />
   <project name="shorelinedev/aosp_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="refs/tags/preview" />
   <project name="shorelinedev/hammerhead-5.0" path="kernel/hammerhead-5.0" remote="github" revision="refs/tags/preview" />
   
