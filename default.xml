@@ -540,7 +540,16 @@
   #Devices and Prime Specifics
   <project name="shorelinedev/packages_apps_KernelTweaker" path="packages/apps/KernelTweaker" remote="github" revision="lollipop" />
   <project name="shorelinedev/aosp_build_scripts" path="scripts" remote="github" revision="lollipop" />
-  #Hammerhead
+  
+  #hammerhead
   <project name="shorelinedev/hammerhead-5.0" path="kernel/hammerhead-5.0" remote="github" revision="code_blue-l" />
   <project name="shorelinedev/aosp_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lollipop" />
+  
+  #evita
+  <project name="CyanogenMod/android_device_htc_evita" path="device/htc/evita" remote="github" />
+  <project name="CyanogenMod/android_device_htc_s4-common" path="device/htc/s4-common" remote="github" />
+  <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" />
+  <project name="CyanogenMod/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  
 </manifest>
