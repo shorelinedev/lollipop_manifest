@@ -543,7 +543,7 @@
   
   #hammerhead
   <project name="shorelinedev/hammerhead-5.0" path="kernel/hammerhead-5.0" remote="github" revision="code_blue-l" />
-  <project name="shorelinedev/aosp_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lollipop" />
+  <project name="shorelinedev/aosp_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="android-5.0" />
   
   #evita
   <project name="CyanogenMod/android_device_htc_evita" path="device/htc/evita" remote="github" />
